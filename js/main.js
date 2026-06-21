@@ -232,7 +232,7 @@ function initAuthModal() {
       
       // Redirect to admin panel after a short delay
       setTimeout(() => {
-        window.location.href = '../admin/index.html';
+        window.location.href = '/admin/index.html';
       }, 1000);
     });
   }
@@ -282,7 +282,7 @@ function initAuthModal() {
       
       // Redirect to admin panel after a short delay
       setTimeout(() => {
-        window.location.href = '../admin/index.html';
+        window.location.href = '/admin/index.html';
       }, 1000);
     });
   }
